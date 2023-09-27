@@ -1,0 +1,41 @@
+Respostas aleatórias de exercicios aleatórios
+
+
+public class Main {
+
+    public static void main(String[] args) {
+
+//        Pessoa pessoa = new Pessoa();
+//        pessoa.setNome("camyle");
+//        pessoa.setAltura(1.65);
+//        pessoa.setIdade(24);
+//        System.out.println(pessoa.apresentar(pessoa));
+
+//        String nome = "sam Harris";
+//        String[] splited = nome.split(" ");
+//        char abbrevFirstName = splited[0].toUpperCase().charAt(0);
+//        char abbrevSecondName = splited[1].toUpperCase().charAt(0);
+//        String abbrev = abbrevFirstName + "." + abbrevSecondName;
+//        System.out.println(abbrev);
+
+//        String sheep = "1 sheep...";
+//        int num = 2;
+//        for (int i = 1; i < num; i++) {
+//            sheep += i + "" + sheep;
+//        }
+//        System.out.println(sheep);
+
+//        double[] numbers = {12, -32, 54, 6};
+//        double result = 0.0;
+//        for (int i = 0; i < numbers.length; i++) {
+//
+//            result += numbers[i];
+//
+//        }
+//
+//        System.out.println(result);
+//    }
+
+    }
+}
+
